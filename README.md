@@ -1,6 +1,5 @@
-# hello-world
-Just another repository
+# Basics
 
-Hi Humans!
+Hi All,
 
-Shubham here, I like Python.
+This repository will consist of Introductory Programs.
