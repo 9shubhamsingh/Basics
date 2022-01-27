@@ -1,5 +1,4 @@
-# Basics
+# Coding-Problems
+Repository containing daily coding problems solved with their problem statement.
 
-Hi All,
 
-This repository will consist of Introductory Programs.
